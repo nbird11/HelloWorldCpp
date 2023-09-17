@@ -1,24 +1,20 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+As an up-and-coming software engineer, I'm trying to learn as much as possible in a variety of different languages.
 
-{Provide a description of your software}
+This program outputs Hello World to the console.
 
-{Describe your purpose for creating this software.}
+The purpose is as a test run of trying to build and run C++ programs using VSCode as a text editor.
 
-{Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+Software Demo Video: [C++ Hello World - Demonstration](https://youtu.be/EieO-L22BPw)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I'm using Visual Studio Code as a text editor to write the code in C++ and the GNU g++ compiler to build the program executable.
 
-{Describe the programming language that you used}
+The batch file is for easier compilation for the executable in Windows.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [W3Schools C++ Tutorial](https://www.w3schools.com/cpp/)
+- [GNU g++ Documentation](https://gcc.gnu.org/onlinedocs/gcc-3.3.6/gcc/index.html)
